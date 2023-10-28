@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "D:\\develop\\recipies\\conan-multiarena\\test_package\\build\\msvc-193-x86_64-20-release\\generators\\CMakePresets.json"
+    ]
+}
