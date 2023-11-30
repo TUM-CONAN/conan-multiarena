@@ -30,7 +30,7 @@ class MultiarenaConan(ConanFile):
 
     def export(self):
         update_conandata(self, {"sources": {
-            "commit": "v{}".format(self.version),
+            "commit": "main", #  "v{}".format(self.version),
             "url": "https://github.com/ulricheck/MultiArena"
             }}
             )
